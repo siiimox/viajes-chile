@@ -1,4 +1,6 @@
 body {font-family: 'Nunito Sans', sans-serif;}
-i {font-family: "Font Awesome 5 Free"; color: #fff;font-style: normal;}
+i {font-family: "Font Awesome 5 Free"; color: #fff;font-style: normal;font-size: 2rem;}
 .bg-viajeschile {background-color:#27a1aa ;}
 .bg-page {background-color: #000000;}
+.transparent {background-color:transparent;transition:background-color 500ms, color 500ms;}
+.transparent.navscroll {background-color:#27a1aa;color:white;}
